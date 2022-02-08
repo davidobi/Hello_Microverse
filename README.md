@@ -2,18 +2,14 @@
 
 # Hello Microverse
 
-> Hello Microverse project is designed to master all tools and best practices needed when commiting to github.
+> Hello Microverse project is designed to master basic tools installation setup and best practices needed when pushing to github.
 
 
 ## Built With
 
 - HTML
 - CSS
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- Linters 
 
 
 ## Getting Started
@@ -22,19 +18,14 @@
 
 
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
-### Prerequisites
 
 ### Setup
 
-### Install
+Clone this repo on git " git clone https://github.com/davidobi/Hello_Microverse.git" 
 
-### Usage
-
-### Run tests
-
-### Deployment
+next: cd into the directory "cd Hello_Microverse"
 
 
 
@@ -56,13 +47,3 @@ Contributions, issues, and feature requests are welcome!
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
