@@ -42,9 +42,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **David**
 
-- GitHub: [@githubhandle](https://github.com/davidobi)
-- Twitter: [@twitterhandle](https://twitter.com/realdavidobi)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/realdavidobi/)
+- GitHub: [@davidobi](https://github.com/davidobi)
+- Twitter: [@davidobi](https://twitter.com/realdavidobi)
+- LinkedIn: [@davidobi](https://www.linkedin.com/in/realdavidobi/)
 
 
 ## 🤝 Contributing
